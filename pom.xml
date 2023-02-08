@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.129.21.183:8181/deestories/repository/testapp-releases/</url>
+	      <url>http://3.129.21.183:8181/deestories/repository/testapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
